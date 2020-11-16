@@ -1,16 +1,3 @@
-<a href="https://avertek.net/xr-asap-%26-xr-now"> AVERtek's XR-NOW Technology
-
----
-
-### Your Community Name Here
-
-<a href="https://avertek.net/contact-us">STEP 4- Contact Us for a Personal Tour; Receive a Free Gift</a> 
-  <br><br>
-<!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
-
-
 ---
 <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
@@ -41,7 +28,16 @@
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
+<a href="https://avertek.net/xr-asap-%26-xr-now"> AVERtek's XR-NOW Technology
 
+---
+
+### Your Community Name Here
+
+<a href="https://avertek.net/contact-us">STEP 4- Contact Us for a Personal Tour; Receive a Free Gift</a> 
+  <br><br>
+<!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 
 ---
