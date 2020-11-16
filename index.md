@@ -31,14 +31,5 @@
 
 ---
 
-
-### To Learn More About XR-NOW
-<a href="https://avertek.net/contact-us">Contact AVERtek Here</a> 
+### To Learn More About XR-NOW <a href="https://avertek.net/contact-us">Contact AVERtek Here</a> 
   <br><br>
-<!--[OSI Building Brands; Growing Business](/https://osicreative.com/)-->
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
-
----
-
-<!-- Remove above link if you don't want to attibute -->
