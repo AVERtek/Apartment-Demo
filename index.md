@@ -31,5 +31,5 @@
 
 ---
 
-### To Learn More About XR-NOW <a href="https://avertek.net/contact-us">Contact AVERtek Here</a> 
+### <a href="https://avertek.net">Learn More About XR-NOW</a> 
   <br><br>
