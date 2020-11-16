@@ -28,7 +28,6 @@
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
-<a href="https://avertek.net/xr-asap-%26-xr-now"> AVERtek's XR-NOW Technology
 
 ---
 
