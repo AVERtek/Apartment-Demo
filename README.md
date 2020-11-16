@@ -1,2 +1,2 @@
-# Apartment-Demo
-Apartment demo for property management companies.
+# Apartment
+AR Apartment
